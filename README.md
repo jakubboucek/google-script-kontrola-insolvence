@@ -25,7 +25,7 @@ Vhodné kombinace:
 1. Zkopírujte si [vzorovou tabulku](https://docs.google.com/spreadsheets/d/1lEQSA2mZt_LouzgixVdshQKg6cg60bJRYhixzieEdsY/copy) 
 2. Do tabulky vyplňte nejméně jednu osobu, kterou chcete prověřit.
 3. Volbou **Nástroje > Editor scriptů** si vytvořte Google Script připojený k tabulce ([více informací](https://developers.google.com/apps-script/guides/bound))
-4. Do scriptu vložte obsah souboru [Code.js](Code.js) a uložte jej kliknutím na ikonu diskety.
+4. Do scriptu vložte obsah souboru [Code.js](google-script/Code.js) a uložte jej kliknutím na ikonu diskety.
 5. V horním panelu spusťte funkci `main` (název vyberte v seznamu a stiskněte tlačítko Play). Při prvním spuštění je nezbytné projít proces autorizace, kterým dáte scriptu oprávnění, aby mohl číst z tabulky Vaším jménem ([více informací](https://developers.google.com/apps-script/guides/services/authorization)).
 6. Nastavte pravidelné spouštění funkce `main` každou hodinu (tlačítkem se symbolem hodin, [více informací](https://developers.google.com/apps-script/guides/triggers/installable#time-driven_triggers)).
 
