@@ -37,7 +37,9 @@ Nejkratší cestou je vyhledání scriptu v [Google Script Dashbordu](https://sc
 ## GDPR
 Vyhledávat osoby v insolvenčním rejstříku spadá pod takzvaný Oprávněný zájem, tedy není třeba k němu mít souhlas subjektu. Nicméně je značně problematické uchovávat osobní údaje fyzických osob v Google Tabulkách (pokud nejsou provozovány pod firemním G Suite, které požadavky GDPR splňuje). 
 
-Dále je třeba myslet na to, že máte povinnost evidovat, kde osobní údaje osob uchováváte – nezapomeňte tedy tuto tabulku ve firemních směrnicích uvést. 
+Dále je třeba myslet na to, že máte povinnost evidovat, kde osobní údaje osob uchováváte – nezapomeňte tedy tuto tabulku ve firemních směrnicích uvést.
+
+**Důležité:** Otázka slučitelnosti s GDPR je složitější. Ince informací v Issue #1: [Použitelnost v rámci GDPR](https://github.com/jakubboucek/google-script-kontrola-insolvence/issues/1) 
 
 ## Známé problémy
 *Žádné zatím nejsou, sledujte [Issues](https://github.com/jakubboucek/google-script-kontrola-insolvence/issues)*
